@@ -1,5 +1,4 @@
-
-#my devops tasks for techie horizon
+my devops tasks for techie horizon
 ---
-##which are provieded by sabair.
+which are provieded by sabair.
 ---
